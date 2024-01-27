@@ -1,6 +1,7 @@
 ## Docquest Chatbot
 
 ### Overview 
+DocQuest Chatbot is an innovative and intelligent document-related question-answering system built using Python and Streamlit. Leveraging advanced natural language processing (NLP) techniques, the chatbot assists users in extracting insights from PDF documents through an intuitive and interactive interface.
 ![U.I](images/before.png)
 
 
